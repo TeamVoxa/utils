@@ -1,3 +1,3 @@
-# string-utils
+# utils
 
-## Collection of string utiliy functions
+## Collection of utiliy functions
