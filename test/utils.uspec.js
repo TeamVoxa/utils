@@ -9,7 +9,7 @@ describe('StringUtils', function() {
     _ = require('lodash'),
     sinon = require('sinon'),
     should = require('should'),
-    stringUtils = require('../lib/string-utils');
+    stringUtils = require('../lib/utils');
 
   beforeEach(function() {
 
