@@ -10,7 +10,7 @@ module.exports = {
       timeout: 5000,
       reportFormats: ['lcov'],
       check: {
-        statements: 100
+        statements: 85
       }
     }
   }
